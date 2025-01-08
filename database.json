@@ -1,0 +1,350 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Alice Johnson",
+            "email": "alice.johnson@example.com",
+            "cohort": "2025"
+        },
+        {
+            "id": 2,
+            "name": "Bob Smith",
+            "email": "bob.smith@example.com",
+            "cohort": "2025"
+        },
+        {
+            "id": 3,
+            "name": "Charlie Brown",
+            "email": "charlie.brown@example.com",
+            "cohort": "2024"
+        },
+        {
+            "id": 4,
+            "name": "Diana Prince",
+            "email": "diana.prince@example.com",
+            "cohort": "2024"
+        },
+        {
+            "id": 5,
+            "name": "Evan Wright",
+            "email": "evan.wright@example.com",
+            "cohort": "2023"
+        },
+        {
+            "id": 6,
+            "name": "Fiona Apple",
+            "email": "fiona.apple@example.com",
+            "cohort": "2023"
+        },
+        {
+            "id": 7,
+            "name": "George Carter",
+            "email": "george.carter@example.com",
+            "cohort": "2025"
+        },
+        {
+            "id": 8,
+            "name": "Hannah Lee",
+            "email": "hannah.lee@example.com",
+            "cohort": "2025"
+        },
+        {
+            "id": 9,
+            "name": "Ivy Clarke",
+            "email": "ivy.clarke@example.com",
+            "cohort": "2024"
+        },
+        {
+            "id": 10,
+            "name": "Jack Davis",
+            "email": "jack.davis@example.com",
+            "cohort": "2023"
+        }
+    ],
+    "topics": [
+        {
+            "id": 1,
+            "name": "Technology"
+        },
+        {
+            "id": 2,
+            "name": "Art"
+        },
+        {
+            "id": 3,
+            "name": "Science"
+        },
+        {
+            "id": 4,
+            "name": "Education"
+        },
+        {
+            "id": 5,
+            "name": "Health"
+        }
+    ],
+    "posts": [
+        {
+            "id": 1,
+            "title": "The Future of AI",
+            "body": "Exploring AI advancements.",
+            "date": "2025-01-01",
+            "topicId": 1
+        },
+        {
+            "id": 2,
+            "title": "The Art of Digital Painting",
+            "body": "Techniques for modern artists.",
+            "date": "2025-01-02",
+            "topicId": 2
+        },
+        {
+            "id": 3,
+            "title": "Space Exploration 2025",
+            "body": "Latest updates in space technology.",
+            "date": "2025-01-03",
+            "topicId": 3
+        },
+        {
+            "id": 4,
+            "title": "Innovative Teaching Methods",
+            "body": "Engaging new generations.",
+            "date": "2025-01-04",
+            "topicId": 4
+        },
+        {
+            "id": 5,
+            "title": "Mental Health Awareness",
+            "body": "Breaking the stigma.",
+            "date": "2025-01-05",
+            "topicId": 5
+        },
+        {
+            "id": 6,
+            "title": "Quantum Computing 101",
+            "body": "Understanding the basics.",
+            "date": "2025-01-06",
+            "topicId": 1
+        },
+        {
+            "id": 7,
+            "title": "Photography as Fine Art",
+            "body": "Capturing moments creatively.",
+            "date": "2025-01-07",
+            "topicId": 2
+        },
+        {
+            "id": 8,
+            "title": "Climate Change Impact",
+            "body": "What science tells us.",
+            "date": "2025-01-08",
+            "topicId": 3
+        },
+        {
+            "id": 9,
+            "title": "Online Learning Platforms",
+            "body": "How they are shaping education.",
+            "date": "2025-01-09",
+            "topicId": 4
+        },
+        {
+            "id": 10,
+            "title": "Nutrition Tips",
+            "body": "Eating for health and wellness.",
+            "date": "2025-01-10",
+            "topicId": 5
+        },
+        {
+            "id": 11,
+            "title": "Blockchain Revolution",
+            "body": "Decentralizing the future.",
+            "date": "2025-01-11",
+            "topicId": 1
+        },
+        {
+            "id": 12,
+            "title": "Sculpture in the Digital Age",
+            "body": "Bridging traditional and modern.",
+            "date": "2025-01-12",
+            "topicId": 2
+        },
+        {
+            "id": 13,
+            "title": "Renewable Energy Advances",
+            "body": "Powering the planet sustainably.",
+            "date": "2025-01-13",
+            "topicId": 3
+        },
+        {
+            "id": 14,
+            "title": "Gamification in Education",
+            "body": "Making learning fun.",
+            "date": "2025-01-14",
+            "topicId": 4
+        },
+        {
+            "id": 15,
+            "title": "Exercise and Mental Health",
+            "body": "The connection between body and mind.",
+            "date": "2025-01-15",
+            "topicId": 5
+        },
+        {
+            "id": 16,
+            "title": "Cybersecurity Trends",
+            "body": "Staying safe in a digital world.",
+            "date": "2025-01-16",
+            "topicId": 1
+        },
+        {
+            "id": 17,
+            "title": "The Evolution of Music",
+            "body": "How technology influences art.",
+            "date": "2025-01-17",
+            "topicId": 2
+        },
+        {
+            "id": 18,
+            "title": "The Physics of Black Holes",
+            "body": "Understanding these cosmic phenomena.",
+            "date": "2025-01-18",
+            "topicId": 3
+        },
+        {
+            "id": 19,
+            "title": "Collaborative Learning Models",
+            "body": "Reinventing teamwork in classrooms.",
+            "date": "2025-01-19",
+            "topicId": 4
+        },
+        {
+            "id": 20,
+            "title": "Holistic Health Practices",
+            "body": "Embracing wellness.",
+            "date": "2025-01-20",
+            "topicId": 5
+        }
+    ],
+    "userPosts": [
+        {
+            "id": 1,
+            "userId": 1,
+            "postId": 1,
+            "liked": true
+        },
+        {
+            "id": 2,
+            "userId": 2,
+            "postId": 2,
+            "liked": true
+        },
+        {
+            "id": 3,
+            "userId": 3,
+            "postId": 3,
+            "liked": false
+        },
+        {
+            "id": 4,
+            "userId": 4,
+            "postId": 4,
+            "liked": true
+        },
+        {
+            "id": 5,
+            "userId": 5,
+            "postId": 5,
+            "liked": true
+        },
+        {
+            "id": 6,
+            "userId": 6,
+            "postId": 6,
+            "liked": false
+        },
+        {
+            "id": 7,
+            "userId": 7,
+            "postId": 7,
+            "liked": true
+        },
+        {
+            "id": 8,
+            "userId": 8,
+            "postId": 8,
+            "liked": false
+        },
+        {
+            "id": 9,
+            "userId": 9,
+            "postId": 9,
+            "liked": true
+        },
+        {
+            "id": 10,
+            "userId": 10,
+            "postId": 10,
+            "liked": true
+        },
+        {
+            "id": 11,
+            "userId": 1,
+            "postId": 11,
+            "liked": false
+        },
+        {
+            "id": 12,
+            "userId": 2,
+            "postId": 12,
+            "liked": true
+        },
+        {
+            "id": 13,
+            "userId": 3,
+            "postId": 13,
+            "liked": false
+        },
+        {
+            "id": 14,
+            "userId": 4,
+            "postId": 14,
+            "liked": true
+        },
+        {
+            "id": 15,
+            "userId": 5,
+            "postId": 15,
+            "liked": true
+        },
+        {
+            "id": 16,
+            "userId": 6,
+            "postId": 16,
+            "liked": true
+        },
+        {
+            "id": 17,
+            "userId": 7,
+            "postId": 17,
+            "liked": false
+        },
+        {
+            "id": 18,
+            "userId": 8,
+            "postId": 18,
+            "liked": true
+        },
+        {
+            "id": 19,
+            "userId": 9,
+            "postId": 19,
+            "liked": true
+        },
+        {
+            "id": 20,
+            "userId": 10,
+            "postId": 20,
+            "liked": false
+        }
+    ]
+}
